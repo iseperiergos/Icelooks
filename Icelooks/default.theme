@@ -1,0 +1,168 @@
+ThemeAuthor=                            "car soap"
+ThemeDescription=                       "Icelooks"
+License=                                "GPL"
+
+Look=                                   "flat"
+Gradients=                              "menubg.xpm menusel.xpm dialogbg.xpm workspacebuttonbg.xpm workspacebuttonactive.xpm buttonA.xpm buttonI.xpm"
+
+#Buttons
+RolloverButtonsSupported=               1
+TitleButtonsSupported=                  "xmi"
+TitleButtonsRight=                      "xmi"
+
+TaskBarClockLeds=                       0
+TrayDrawBevel=                          0
+
+#Borders
+BorderSizeX=                            2
+BorderSizeY=                            2
+DlgBorderSizeX=                         2
+DlgBorderSizeY=                         2
+CornerSizeX=                            22
+CornerSizeY=                            22
+TitleBarHeight=                         22
+TitleBarVertOffset=                     0
+ScrollBarX=                             16
+ScrollBarY=                             16
+
+#Icons
+TrayIconMaxHeight=                      17
+
+MenuIconSize=                           16
+SmallIconSize=                          16
+LargeIconSize=                          32
+HugeIconSize=                           48
+
+#DialogBox
+
+ColorDialog=                            "rgb:ED/EC/EB"
+ColorDialogSelectionText=               "rgb:00/00/00"
+
+#Taskbar
+TaskbuttonIconOffset=                   10
+ColorDefaultTaskBar=                    "rgb:ED/EC/EB"
+ColorToolButton=                        "rgb:ED/EC/EB"
+ColorToolButtonText=                    "rgb:00/00/00"
+ColorActiveButton=                      "rgb:ED/EC/EB"
+ColorNormalButton=                      "rgb:ED/EC/EB"
+
+ColorNormalWorkspaceButton=             "rgb:A1/A1/A1"
+ColorNormalWorkspaceButtonText=         "rgb:00/00/00"
+
+ColorActiveWorkspaceButton=             "rgb:4E/76/A8"
+ColorActiveWorkspaceButtonText=         "rgb:00/00/00"
+
+ColorNormalButtonText=                  "rgb:00/00/00"
+ColorActiveButtonText=                  "rgb:00/00/00"
+ColorActiveTaskBarApp=                  "rgb:2A/39/83"
+ColorActiveTaskBarAppText=              "rgb:00/00/00"
+
+ColorMinimizedTaskBarApp=               "rgb:2A/39/83"
+ColorMinimizedTaskBarAppText=           "rgb:00/00/00"
+ColorNormalTaskBarApp=                  "rgb:2A/39/83"
+ColorNormalTaskBarAppText=              "rgb:00/00/00"
+ColorInvisibleTaskBarAppText=           "rgb:00/00/00"
+
+ColorInput="rgb:FF/FF/FF"
+
+#Menu
+ColorActiveMenu=                        "rgb:AA/AA/AA"
+
+ColorActiveMenuItem=                    "rgb:AA/AA/AA"
+ColorDisabledMenuItemShadow=            "rgb:AA/AA/AA"
+
+ColorNormalMenu=                        "rgb:AA/AA/AA"
+ColorNormalMenuItem=                    "rgb:00/00/00"
+ColorNormalMenuItemText=                "rgb:00/00/00"
+ColorActiveMenuItemText=                "rgb:FF/FF/FF"
+ColorDisabledMenuItemText=              "rgb:80/80/80"
+ColorDisabledMenuItemShadow=            "rgb:00/00/00"
+
+#TitleBox
+ColorNormalBorder=                      "rgb:2A/39/83"
+ColorActiveBorder=                      "rgb:2A/39/83"
+ColorNormalTitleBarText=                "rgb:93/93/93"
+ColorActiveTitleBarText=                "rgb:FF/FF/FF"
+ColorNormalTitleBarShadow=              ""
+ColorActiveTitleBarShadow=              "rgb:4E/76/A8"
+
+#Move
+ColorMoveSizeStatus=                    "rgb:ED/EC/EB"
+ColorMoveSizeStatusText=                "rgb:00/00/00"
+
+#Tooltip
+ColorToolTip=                           "rgb:ED/EC/EB"
+ColorToolTipText=                       "rgb:00/00/00"
+
+#QuickSwitch
+ColorQuickSwitch=                       "rgb:ED/EC/EB"
+ColorQuickSwitchText=                   "rgb:00/00/00"
+
+#ListBox
+ColorListBox=                           "rgb:ED/EC/EB"
+ColorListBoxText=                       "rgb:00/00/00"
+ColorListBoxSelection=                  "rgb:00/00/00"
+ColorListBoxSelectionText=              "rgb:ED/EC/EB"
+
+#Label
+ColorLabel=                             "rgb:ED/EC/EB"
+ColorLabelText=                         "rgb:00/00/00"
+
+#Clock
+ColorClock=                             "rgb:ED/EC/EB"
+ColorClockText=                         "rgb:00/00/00"
+ColorClock=                             ""
+
+#CPUMonitor
+ColorCPUStatusIdle=                     "rgb:14/20/5E"
+ColorCPUStatusUser=                     "rgb:6C/7A/C3"
+ColorCPUStatusSystem=                   "rgb:00/00/00"
+ColorCPUStatusInterrupts=               "rgb:FF/00/0F"
+ColorCPUStatusIoWait=                   "rgb:FF/FF/FF"
+ColorCPUStatusSoftIrq=                  "rgb:00/DE/FF"
+ColorCPUStatusNice=                     "rgb:8C/93/9A"
+
+#Net
+ColorNetIdle=                           "rgb:14/20/5E"
+ColorNetSend=                           "rgb:00/00/00"
+ColorNetReceive=                        "rgb:6C/7A/C3"
+
+#APM
+ColorApm=                               "rgb:ED/EC/EB"
+ColorApmText=                           "rgb:00/00/00"
+
+#Memory Manager
+ColorMEMStatusFree=                     "rgb:14/20/5E"
+ColorMEMStatusCached=                   "rgb:00/00/00"
+ColorMEMStatusUser=                     "rgb:6C/7A/C3"
+ColorMEMStatusBuffers=                  "rgb:00/00/00"
+
+#Input
+ColorInput=                             "rgb:2A/39/83"
+ColorInputText=                         "rgb:00/00/00"
+ColorInputSelection=                    "rgb:14/20/5E"
+ColorInputSelectionText=                "rgb:00/00/00"
+
+#ScrollBar
+ColorScrollBar=                         "rgb:00/00/00"
+ColorScrollBarButton=                   "rgb:00/00/00"
+ColorScrollBarSlider=                   "rgb:ED/EC/EB"
+ColorScrollBarArrow=                    "rgb:ED/EC/EB"
+ColorScrollBarButtonArrow=              "rgb:00/00/00"
+ColorScrollBarInactiveArrow=            "rgb:00/00/00"
+
+#Fonts
+TitleFontNameXft=                       "DejaVu Sans:size=8:bold"
+StatusFontNameXft=                      "DejaVu Sans:size=8:bold"
+MenuFontNameXft=                        "DejaVu Sans:size=9"
+NormalTaskBarFontNameXft=               "DejaVu Sans:size=9"
+ActiveTaskBarFontNameXft=               "DejaVu Sans:size=9:bold"
+ListBoxFontNameXft=                     "DejaVu Sans:size=8:bold"
+ToolTipFontNameXft=                     "DejaVu Sans:size=9:bold"
+QuickSwitchFontNameXft=                 "DejaVu Sans:size=9:bold"
+ClockFontNameXft=                       "DejaVu Sans:size=9"
+
+NormalButtonFontNameXft=                "DejaVu Sans:size=9"
+
+NormalWorkspaceFontNameXft=             "DejaVu Sans:size=9"
+ActiveWorkspaceFontNameXft=             "DejaVu Sans:size=9"

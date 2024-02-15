@@ -1,0 +1,7 @@
+/* XPM */
+static char * frameIBL_xpm[] = {
+"2 2 2 1",
+" 	c #85827E",
+".	c #F4F4F3",
+" .",
+"  "};
